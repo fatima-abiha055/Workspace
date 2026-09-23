@@ -1,4 +1,4 @@
-# WorkSpace – Coworking Space Booking System
+npm# WorkSpace – Coworking Space Booking System
 
 A frontend-only React app (Vite + React Router) for browsing, filtering and booking
 coworking desks, private offices and meeting rooms. No backend — all data (bookings,
