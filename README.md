@@ -1,4 +1,4 @@
-# Workly Co-Space — Coworking Space Booking System
+# WorkSpace-Coworking Space Booking System
 
 A modern and responsive **Coworking Space Booking System** developed as an internship project.
 Workly Co-Space allows users to explore available workspaces, meeting rooms, and desks, view workspace details, and manage their bookings through a clean and user-friendly interface.
@@ -11,7 +11,7 @@ https://workspace-coworkingbookingsystem.vercel.app/
 
 ## 📌 Project Overview
 
-**Workly Co-Space** is a frontend-based coworking space booking website designed to provide a smooth and professional booking experience.
+**WorkSpace-Coworking Space Booking System** is a frontend-based coworking space booking website designed to provide a smooth and professional booking experience.
 
 The system includes workspace browsing, detailed workspace information, booking functionality, user authentication screens, booking management, profile management, and a responsive dashboard.
 
@@ -131,7 +131,7 @@ Key UI/UX considerations include:
 
 ## 🎯 Project Objective
 
-The main objective of Workly Co-Space is to create a practical coworking space booking platform while applying modern frontend development concepts.
+The main objective of WorkSpace-Coworking Space Booking System is to create a practical coworking space booking platform while applying modern frontend development concepts.
 
 The project demonstrates the use of:
 
@@ -174,23 +174,35 @@ Future versions of Workly Co-Space could include:
 ## 👩‍💻 Developer
 
 **Fatima Abiha**
+
 Software Engineering Student
+
 Frontend Development Intern
+
 
 ### 🔗 Project Links
 
-**GitHub Repository:**
-https://github.com/fatima-abiha055/Workspace
 
-**Live Demo:**
-https://workspace-coworkingbookingsystem.vercel.app/
+* **GitHub Repository:** [Workspace Repository](https://github.com/fatima-abiha055/Workspace)
+
+* **Live Demo:** [Workly Co-Space Live](https://workspace-coworkingbookingsystem.vercel.app/)
+
 
 ---
 
+
+
 ## 📄 Project Information
 
-**Project Name:** Workly Co-Space
+
+
+**Project Name:** WorkSpace
+
 **Project Type:** Coworking Space Booking System
+
 **Development Area:** Frontend Development
+
 **Purpose:** Internship Project
+
 **Status:** Completed / Deployed
+
